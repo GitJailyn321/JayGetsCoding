@@ -2,11 +2,11 @@
 
 #birdpic {
     width: 300px;
-    height: 200px;
+    height: auto;
     margin-bottom: 5px;
 }
 
-#fun {
+#fun { 
     font-style: italic;
 }
 
